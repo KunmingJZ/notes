@@ -354,10 +354,6 @@
 - [腾讯云-Mybatis拦截器专栏](https://cloud.tencent.com/developer/information/mybatis%E6%8B%A6%E6%88%AA%E5%99%A8)
 - [Mybatis拦截器CSDN](https://blog.csdn.net/zsj777/article/details/81986096)
 
-## **[github资源分享]()**
-
-- [阿里oldratlee](https://github.com/oldratlee)
-
 
 ## Star History
 
