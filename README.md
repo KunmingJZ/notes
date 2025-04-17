@@ -10,14 +10,6 @@
 
 <font color=blue size=3>[JAVA程序猿笔试面试干货分享](https://github.com/Byron4j/depthgoods)</font>
 
-
-
-**[IDEA-2019-1永久激活教程](软件激活/IDEA-2019-1永久激活教程.md)**
-
-:bowtie:     **觉得不错，就 ★Star 吧**
-
-
-
 ## [:tada:刷题吧:tada:](https://github.com/Byron4j/leetcode)
 
 ## :tada:**数据结构和算法**
@@ -354,10 +346,14 @@
 - [腾讯云-Mybatis拦截器专栏](https://cloud.tencent.com/developer/information/mybatis%E6%8B%A6%E6%88%AA%E5%99%A8)
 - [Mybatis拦截器CSDN](https://blog.csdn.net/zsj777/article/details/81986096)
 
+> ## ceph
+- 常用命令 [[ceph/常用命令.md]]
+>## Clickhouse
+- 概要[[设计概要]]
+
+>K8s
+- [[k8s/常用命令]]
 ## **[github资源分享]()**
-
-- [阿里oldratlee](https://github.com/oldratlee)
-
 
 ## Star History
 

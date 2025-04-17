@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "7eefde65d6139544",
+    "type": "split",
+    "children": [
+      {
+        "id": "e02d161de6e29580",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e708d37f370ac87",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "49166c880d11e0cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "330786e6f9fa284e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8bff92036de12c0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "d8f1bd67cd8ed1f3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "c14d97075df3c301",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5f48ff72bbfb7d67",
+    "type": "split",
+    "children": [
+      {
+        "id": "497d96dccf35686f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd5eb35e307f8351",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "54a1556fee6aa610",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "5c1a12c9d0cab0b5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "b240cf4dece0e7db",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "1e708d37f370ac87",
+  "lastOpenFiles": [
+    "clickhouse/设计概要.md",
+    "clickhouse/汇总.png",
+    "clickhouse/2.png",
+    "clickhouse/1.png",
+    "Dubbo/01-Dubbo入门.md",
+    "Dubbo/03-Dubbo原理源码篇.md",
+    "Dubbo/02-Dubbo实战.md",
+    "Netty/ByteBuf.png",
+    "Netty/1-Netty入门基础.md",
+    "README.md",
+    "k8s/常用命令.md",
+    "分布式高并发/2-滑动窗口算法.md",
+    "分布式高并发/3-一致性哈希算法.md",
+    "分布式高并发/1-令牌桶算法.md",
+    "分布式高并发/0-总览.md",
+    "ceph/常用命令.md",
+    "ceph/常用命令.md.md",
+    "支付系统一般架构设计.svg",
+    "支付系统一般架构设计.png",
+    "加密算法/1-RSA非对称加密算法.md",
+    "未命名.md",
+    "javassist指南/0-javassist编程指南概览.md",
+    "Advance高级知识/IO知识/0-零拷贝.md",
+    "Git/2-Github关于git操作的友好帮助.png",
+    "Git/4-hexos.png",
+    "未命名.canvas"
+  ]
+}
