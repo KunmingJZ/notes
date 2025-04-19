@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e02d161de6e29580",
+        "id": "a6dfba61a90ff9d2",
         "type": "tabs",
         "children": [
           {
-            "id": "1e708d37f370ac87",
+            "id": "c371aba037d9cd13",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "image",
+              "state": {
+                "file": "Spring/pictures/Spring-bean注册流程.png"
+              },
+              "icon": "lucide-image",
+              "title": "Spring-bean注册流程"
             }
           }
         ]
@@ -90,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spring/pictures/Spring-bean注册流程.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "Spring-bean注册流程 的反向链接列表"
             }
           },
           {
@@ -108,11 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Spring/pictures/Spring-bean注册流程.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "Spring-bean注册流程 的出链列表"
             }
           },
           {
@@ -136,12 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Spring/pictures/Spring-bean注册流程.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Spring-bean注册流程 的大纲"
             }
           }
         ]
@@ -161,33 +166,44 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1e708d37f370ac87",
+  "active": "c371aba037d9cd13",
   "lastOpenFiles": [
+    "Scrum/1-Scrum基础入门.md",
     "clickhouse/设计概要.md",
-    "clickhouse/汇总.png",
-    "clickhouse/2.png",
-    "clickhouse/1.png",
-    "Dubbo/01-Dubbo入门.md",
-    "Dubbo/03-Dubbo原理源码篇.md",
-    "Dubbo/02-Dubbo实战.md",
-    "Netty/ByteBuf.png",
-    "Netty/1-Netty入门基础.md",
     "README.md",
+    "ceph/常用命令.md",
+    "支付系统一般架构设计.png",
+    "支付系统一般架构设计.svg",
+    "架构/高可用/01-高可用、负载均衡不得不说的事.md",
+    "Dubbo/01-Dubbo入门.md",
+    "Dubbo/02-Dubbo实战.md",
+    "Dubbo/03-Dubbo原理源码篇.md",
+    "Zokeeper/Zookeeper分布式过程协同技术详解Note/第九章-ZooKeeper内部原理.md",
+    "Zokeeper/Zookeeper分布式过程协同技术详解Note/第4章-处理状态变化-主节点、从节点.md",
+    "Zokeeper/Zookeeper分布式过程协同技术详解Note/第2章-了解Zk与Zk集群配置、主从模式案例演示.md",
+    "Zokeeper/Zookeeper分布式过程协同技术详解Note/第1章-Zk概览.md",
+    "Zokeeper/Zookeeper分布式过程协同技术详解Note/3-单机集群配置二.png",
+    "Zokeeper/Zookeeper分布式过程协同技术详解Note/2-zkservice.jpg",
+    "Zokeeper/Zookeeper分布式过程协同技术详解Note/2-CMW.jpg",
+    "Zokeeper/Zookeeper分布式过程协同技术详解Note/1-一般性主从架构.jpg",
+    "GTCOM.jpg",
+    "未命名.canvas",
+    "未命名.md",
+    "ceph/常用命令.md.md",
+    "Advance高级知识/IO知识/0-零拷贝.md",
+    "clickhouse/9.png",
+    "clickhouse/8.png",
+    "clickhouse/7.png",
+    "Redis/1-Redis内存淘汰策略.md",
+    "MySQL/1-MySQL数据库读写锁示例详解、事务隔离级别示例详解.md",
+    "Netty/1-Netty入门基础.md",
+    "javassist指南/2-ClassPool.md",
     "k8s/常用命令.md",
     "分布式高并发/2-滑动窗口算法.md",
     "分布式高并发/3-一致性哈希算法.md",
     "分布式高并发/1-令牌桶算法.md",
     "分布式高并发/0-总览.md",
-    "ceph/常用命令.md",
-    "ceph/常用命令.md.md",
-    "支付系统一般架构设计.svg",
-    "支付系统一般架构设计.png",
     "加密算法/1-RSA非对称加密算法.md",
-    "未命名.md",
-    "javassist指南/0-javassist编程指南概览.md",
-    "Advance高级知识/IO知识/0-零拷贝.md",
-    "Git/2-Github关于git操作的友好帮助.png",
-    "Git/4-hexos.png",
-    "未命名.canvas"
+    "javassist指南/0-javassist编程指南概览.md"
   ]
 }
