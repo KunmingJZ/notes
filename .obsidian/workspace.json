@@ -11,12 +11,14 @@
             "id": "c371aba037d9cd13",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Spring/pictures/Spring-bean注册流程.png"
+                "file": "Flink/Flink.md",
+                "mode": "preview",
+                "source": true
               },
-              "icon": "lucide-image",
-              "title": "Spring-bean注册流程"
+              "icon": "lucide-file",
+              "title": "Flink"
             }
           }
         ]
@@ -168,10 +170,17 @@
   },
   "active": "c371aba037d9cd13",
   "lastOpenFiles": [
-    "Scrum/1-Scrum基础入门.md",
-    "clickhouse/设计概要.md",
     "README.md",
+    "Flink/Flink.md",
     "ceph/常用命令.md",
+    "k8s/常用命令.md",
+    "Scrum/1-Scrum基础入门.md",
+    "Flink/Pasted image 20250424181406.png",
+    "分布式高并发/1-令牌桶算法.md",
+    "Flink",
+    "分布式高并发/0-总览.md",
+    "Spring/pictures/Spring-bean注册流程.png",
+    "clickhouse/设计概要.md",
     "支付系统一般架构设计.png",
     "支付系统一般架构设计.svg",
     "架构/高可用/01-高可用、负载均衡不得不说的事.md",
@@ -188,22 +197,15 @@
     "Zokeeper/Zookeeper分布式过程协同技术详解Note/1-一般性主从架构.jpg",
     "GTCOM.jpg",
     "未命名.canvas",
-    "未命名.md",
     "ceph/常用命令.md.md",
     "Advance高级知识/IO知识/0-零拷贝.md",
     "clickhouse/9.png",
-    "clickhouse/8.png",
-    "clickhouse/7.png",
     "Redis/1-Redis内存淘汰策略.md",
     "MySQL/1-MySQL数据库读写锁示例详解、事务隔离级别示例详解.md",
     "Netty/1-Netty入门基础.md",
     "javassist指南/2-ClassPool.md",
-    "k8s/常用命令.md",
     "分布式高并发/2-滑动窗口算法.md",
     "分布式高并发/3-一致性哈希算法.md",
-    "分布式高并发/1-令牌桶算法.md",
-    "分布式高并发/0-总览.md",
-    "加密算法/1-RSA非对称加密算法.md",
-    "javassist指南/0-javassist编程指南概览.md"
+    "加密算法/1-RSA非对称加密算法.md"
   ]
 }
